@@ -1,0 +1,12 @@
+c:\users\leioy\documents\visual studio 2015\Projects\MVC_Assignment1B\MVC_Assignment1B\bin\Debug\MVC_Assignment1B.exe.config
+c:\users\leioy\documents\visual studio 2015\Projects\MVC_Assignment1B\MVC_Assignment1B\obj\Debug\MVC_Assignment1B.csprojResolveAssemblyReference.cache
+c:\users\leioy\documents\visual studio 2015\Projects\MVC_Assignment1B\MVC_Assignment1B\obj\Debug\MVC_Assignment1B.Form1.resources
+c:\users\leioy\documents\visual studio 2015\Projects\MVC_Assignment1B\MVC_Assignment1B\obj\Debug\MVC_Assignment1B.Properties.Resources.resources
+c:\users\leioy\documents\visual studio 2015\Projects\MVC_Assignment1B\MVC_Assignment1B\obj\Debug\MVC_Assignment1B.ViewForm3.resources
+c:\users\leioy\documents\visual studio 2015\Projects\MVC_Assignment1B\MVC_Assignment1B\obj\Debug\MVC_Assignment1B.csproj.GenerateResource.Cache
+c:\users\leioy\documents\visual studio 2015\Projects\MVC_Assignment1B\MVC_Assignment1B\bin\Debug\MVC_Assignment1B.exe
+c:\users\leioy\documents\visual studio 2015\Projects\MVC_Assignment1B\MVC_Assignment1B\bin\Debug\MVC_Assignment1B.pdb
+c:\users\leioy\documents\visual studio 2015\Projects\MVC_Assignment1B\MVC_Assignment1B\obj\Debug\MVC_Assignment1B.exe
+c:\users\leioy\documents\visual studio 2015\Projects\MVC_Assignment1B\MVC_Assignment1B\obj\Debug\MVC_Assignment1B.pdb
+c:\users\leioy\documents\visual studio 2015\Projects\MVC_Assignment1B\MVC_Assignment1B\obj\Debug\MVC_Assignment1B.ViewForm1.resources
+c:\users\leioy\documents\visual studio 2015\Projects\MVC_Assignment1B\MVC_Assignment1B\obj\Debug\MVC_Assignment1B.ViewForm2.resources
